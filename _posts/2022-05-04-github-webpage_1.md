@@ -17,18 +17,17 @@ docs.github.com](https://docs.github.com/en/free-pro-team@latest/github/working-
 
 - Github페이지 회원 가입 및 로그인
     
-    ![Untitled](GitHub%20Web%20Page%20aeae9a568b9846b6a9dade7c75326214/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/104874948/166619091-ecdf4df1-2765-49b2-9b12-c96b52530ed2.png)
     
     위와 같은 페이지에서 회원가입 및 로그인을 진행한다.
     
-    ![Untitled](GitHub%20Web%20Page%20aeae9a568b9846b6a9dade7c75326214/Untitled%201.png)
-    
+    ![image](https://user-images.githubusercontent.com/104874948/166619136-03b2c8fc-9ffd-45e5-aeeb-79425f0f2dda.png)
     웹페이지의 버전에 따라 다를 수 있지만 제가 현재 가입당시 처음 로그인 페이지 모습입니다.
     
 
 - Github에 webpage 만들기
 
-![Untitled](GitHub%20Web%20Page%20aeae9a568b9846b6a9dade7c75326214/Untitled%202.png)
+![image](https://user-images.githubusercontent.com/104874948/166619214-d23b5213-45be-4d1e-b0aa-097fb2e5bc05.png)
 
 위와 같이 노란색으로 표시한 부분중 아무거나 클릭을 한 후 repository를 생성합니다.
 
@@ -62,7 +61,8 @@ docs.github.com](https://docs.github.com/en/free-pro-team@latest/github/working-
     여기서는 github web 페이지를 만드는 과저엥서는 체크 하길 바랍니다.
     
 
-![Untitled](GitHub%20Web%20Page%20aeae9a568b9846b6a9dade7c75326214/Untitled%203.png)
+![image](https://user-images.githubusercontent.com/104874948/166619264-19b2d29a-5e9a-41b0-bf9a-da3455432558.png)
+
 
 - 그 외엔 자신의 프로젝트에 맞춰  설정 할 수 있지만 처음이니까 나머지는 패스 하도록 하겠습니다.
 
@@ -72,15 +72,17 @@ docs.github.com](https://docs.github.com/en/free-pro-team@latest/github/working-
 
 나타나는 화면에서 스크롤을 거의 아래쪽으로 내리다 보면 [GitHub Pages]라는 항목이 보일 것이다.
 
-![Untitled](GitHub%20Web%20Page%20aeae9a568b9846b6a9dade7c75326214/Untitled%204.png)
+![image](https://user-images.githubusercontent.com/104874948/166619298-3a40db64-bb77-43ad-b69e-61105d7150dc.png)
 
-![Untitled](GitHub%20Web%20Page%20aeae9a568b9846b6a9dade7c75326214/Untitled%205.png)
+![image](https://user-images.githubusercontent.com/104874948/166619323-29af1a52-6388-42cd-9312-3596ac3151fa.png)
+
 
 기본적으로 [None]으로 선택된 상자를 클릭하고
 
 자신이 보여주고자하는 브랜치(Branch, 분기점)를 선택한 다음 [**Save**] 버튼을 클릭합니다.
 
-![https://blog.kakaocdn.net/dn/olrJw/btqJXWUoqZc/yyAqrfR32r4h25eKeRKZd1/img.png](https://blog.kakaocdn.net/dn/olrJw/btqJXWUoqZc/yyAqrfR32r4h25eKeRKZd1/img.png)
+![image](https://user-images.githubusercontent.com/104874948/166619369-96b06e71-35b6-45f3-ba9c-eda5580001de.png)
+
 
 그리고 현재 화면이 새로고침되는데, 다시 GitHub Pages 항목을 본다면 아래와 같이
 
@@ -88,21 +90,25 @@ docs.github.com](https://docs.github.com/en/free-pro-team@latest/github/working-
 
 그리고 알려준 주소로 접속해보면 아래와 같이 README.md의 내용이 표시됩니다.
 
-![Untitled](GitHub%20Web%20Page%20aeae9a568b9846b6a9dade7c75326214/Untitled%206.png)
+![image](https://user-images.githubusercontent.com/104874948/166619387-dbc09b87-e4cf-4e40-bf92-b03355e45ae6.png)
 
-![Untitled](GitHub%20Web%20Page%20aeae9a568b9846b6a9dade7c75326214/Untitled%207.png)
+
+![image](https://user-images.githubusercontent.com/104874948/166619534-04995287-9876-47c0-90d2-5a15441ad66e.png)
+
 
 이제 나름 HTML을 사용해서 페이지를 만들어서 올려보도록 하겠습니다.
 
 다시 저장소의 [Code]로 돌아가서 README.md를 지우고 새로운 파일을 작성하기 위해 [Add file]을 클릭한다.
 
-![Untitled](GitHub%20Web%20Page%20aeae9a568b9846b6a9dade7c75326214/Untitled%208.png)
+![image](https://user-images.githubusercontent.com/104874948/166619559-a3966773-46fd-49de-9ea8-398a16fd2af8.png)
+
 
 파일 이름을 [index.html]로 명명하고 HTML5의 기본 구조를 간략히 작성후 커밋을 한다.
 
 - index.html은 보통 목적지가 html이 아닌 디렉토리(폴더)만 접근하면 나타나는 인덱스 페이지(다시 어느 링크가 있을지 가이드를 해주는 느낌의.)를 의미한다.
 
-![Untitled](GitHub%20Web%20Page%20aeae9a568b9846b6a9dade7c75326214/Untitled%209.png)
+![image](https://user-images.githubusercontent.com/104874948/166619583-49cd485a-c746-468d-86f3-d952bafb3ff9.png)
+
 
 페이지 밑에 change commits 버튼을 누른 후 다음과 같이 다시 웹에 접속하면 아래와 같은 페이지가 
 
@@ -110,7 +116,8 @@ docs.github.com](https://docs.github.com/en/free-pro-team@latest/github/working-
 
 단  github에서 페이지를 만들고 반영되기까지는 어느정도 시간이 걸리기 때문에 바로 보이지는 않고 적당한 시간이 지난후에 다시 접속하면 변경된 부분이 반영되어 있음을 알 수 있습니다.
 
-![Untitled](GitHub%20Web%20Page%20aeae9a568b9846b6a9dade7c75326214/Untitled%2010.png)
+![image](https://user-images.githubusercontent.com/104874948/166619601-dbad7a9e-415c-46f0-8431-4b2827836ea0.png)
+
 
 ### **Jekyll을 이용한 블로그형 웹페이지 만들기**
 
@@ -136,7 +143,8 @@ C:\apps\TKBIGDATA.giihub.io> ruby -v# ruby 2.4.4 (2018-03-28) [x86_64-darwin18] 
  C:\apps\TKBIGDATA.giihub.io> gem install jekyll bundler
 ```
 
-![Untitled](GitHub%20Web%20Page%20aeae9a568b9846b6a9dade7c75326214/Untitled%2011.png)
+![image](https://user-images.githubusercontent.com/104874948/166619627-fb7320e6-4e2b-4702-b6ce-f9e182193966.png)
+
 
 위와 같이 설치가 되는데 설치 내용이 다소 다를 수 있습니다.
 
@@ -144,7 +152,8 @@ C:\apps\TKBIGDATA.giihub.io> ruby -v# ruby 2.4.4 (2018-03-28) [x86_64-darwin18] 
 
 1. GitHub에서 Repository 경로를 확인합니다.
 
-![Untitled](GitHub%20Web%20Page%20aeae9a568b9846b6a9dade7c75326214/Untitled%2012.png)
+![image](https://user-images.githubusercontent.com/104874948/166619644-e74c59a4-3501-4b41-85d6-e5b6e79ad4b4.png)
+
 
 2. git clone 명령어를 이용해서 로컬로 다운로드하고, 디렉토리를 이동합니다.
 
@@ -185,6 +194,7 @@ C:\apps> bundle exec jekyll serve
     다음과 같이 페이지가 바뀐것을 확인 할 수있습니다.
     
 
-![Untitled](GitHub%20Web%20Page%20aeae9a568b9846b6a9dade7c75326214/Untitled%2013.png)
+![image](https://user-images.githubusercontent.com/104874948/166619673-29253511-da42-4cc1-b53a-fbaa3364d5fb.png)
+
 
 ### 다음 진행해야 하는 것은 본인에 입맛에 맞는 jekyll 템플릿을 찾아 적용시킨후 포스트를 작성해 올리는 부분입니다. 이부분은 다음 포스트에서 진행하도록 하겠습니다.
