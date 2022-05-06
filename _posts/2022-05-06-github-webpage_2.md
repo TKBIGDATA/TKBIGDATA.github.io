@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2022-05-04 11:20:17 +0900
+categories: jekyll update
+---
 # Github Web page 2
 
 이번 포스팅에서는 jekyll 템플릿 중에 개발 블로그에 적당한 것을 골라서 적용해 보도록 하겠습니다
